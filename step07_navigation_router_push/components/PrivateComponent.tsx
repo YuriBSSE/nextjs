@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import type { NextComponentType, NextPageContext } from "next";
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
